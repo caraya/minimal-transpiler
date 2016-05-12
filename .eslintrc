@@ -1,0 +1,11 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {}
+  },
+  "parser": "Babel-ESLint",
+  "rules": {
+    "semi": 2
+  }
+}
